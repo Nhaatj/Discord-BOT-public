@@ -30,13 +30,12 @@ channel_id: ID của kênh BOT sẽ gửi tin nhắn khi có người mới vào
 
 * Gửi tin nhắn chào mừng đến người mới vào server
 * Music
-    1. `play` nhạc từ youtube thông qua tìm kiếm hoặc link youtube
-    2. `stop` dừng nhạc
-    3. `leave` dừng nhạc và thoát khỏi kênh
+    1.  `play` nhạc từ youtube thông qua tìm kiếm hoặc link youtube
+    2.  `stop` dừng nhạc
+    3.  `leave` dừng nhạc và thoát khỏi kênh
 
 
 ## Liên hệ, báo lỗi
-Facebook [Nguyen Duc Nhat](https://www.facebook.com/nhaatj.isme35/) \n
-GitHub [@Nhaatj](https://github.com/Nhaatj)
+Facebook [Nguyen Duc Nhat](https://www.facebook.com/nhaatj.isme35/)     GitHub [@Nhaatj](https://github.com/Nhaatj)
 
 >Author Nhaatj_isme
