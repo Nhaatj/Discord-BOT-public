@@ -10,7 +10,6 @@ npm install
 npm install ytdl-core
 npm i opusscript
 npm i discord.js
-
 ```
 
 ## Cách dùng
@@ -25,16 +24,15 @@ prefix: kí tự đầu tiên của command
 status: trạng thái của BOT có thể thay bằng các cụm từ sau LISTEING,WATCHING, STREAMING, PLAYING, COMPETING
 
 channel_id: ID của kênh BOT sẽ gửi tin nhắn khi có người mới vào server
-
 ```
 
 ## Tính năng (update version 1.1)
 
 * Gửi tin nhắn chào mừng đến người mới vào server
 * Music
-    1. `play` nhạc từ youtube thông qua tìm kiếm hoặc link youtube
-    2. `stop` dừng nhạc
-    3. `leave` dừng nhạc và thoát khỏi kênh
+    1.`play` nhạc từ youtube thông qua tìm kiếm hoặc link youtube
+    2.`stop` dừng nhạc
+    3.`leave` dừng nhạc và thoát khỏi kênh
 
 
 ## Liên hệ, báo lỗi
