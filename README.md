@@ -15,7 +15,7 @@ npm i discord.js
 
 ## Cách dùng
 
-Tải source về theo các version mong muốn, mở file `./config/config.json
+Tải source về theo các version mong muốn, mở file `./config/config.json`
 Lấy Token của BOT [tại đây](https://discord.com/developers/applications)
 ```
 token: paste token vào đây
