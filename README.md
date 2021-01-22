@@ -1,4 +1,4 @@
-# Isme bot
+# [isme](http://www.ismebot.cf/)
 > simple bot
 
 ## Cài đặt
