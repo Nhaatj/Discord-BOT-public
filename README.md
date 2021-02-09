@@ -36,8 +36,8 @@ channel_id: channel ID you want bot send message when someone join your server
 
 
 ## Support and contact
-Facebook [Nguyen Duc Nhat](https://www.facebook.com/nhaatj.isme35/)     GitHub [@Nhaatj](https://github.com/Nhaatj)
-Mail : contactwithme.isme@gmail.com
+Facebook [Nguyen Duc Nhat](https://www.facebook.com/nhaatj.isme35/) \n     GitHub [@Nhaatj](https://github.com/Nhaatj) \n
+Mail : contactwithme.isme@gmail.com \n
 [Website](ismebot.cf)
 
 >Author Nhaatj_isme
