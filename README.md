@@ -1,41 +1,43 @@
 # [isme](http://www.ismebot.cf/)
 > simple bot
 
-## Cài đặt
+## Install
 
-Mở cmd( trên Windown ) hoặc Terminal( trên Linux) cài những tool sau
+Open terminal or cmd and install this :
 
 ```
-npm install
-npm install ytdl-core
-npm i opusscript
-npm i discord.js
+npm init
+npm install discord.js
 ```
 
-## Cách dùng
+## How to Use
 
-Tải source về theo các version mong muốn, mở file `./config/config.json`
-Lấy Token của BOT [tại đây](https://discord.com/developers/applications)
+Download file from **Releases** with version you want, open file `.config.json`.
+Take Discord Token from [here](https://discord.com/developers/applications).
 ```
-token: paste token vào đây
+token: paste your token
 
-prefix: kí tự đầu tiên của command
+prefix: first word command
 
-status: trạng thái của BOT có thể thay bằng các cụm từ sau LISTEING,WATCHING, STREAMING, PLAYING, COMPETING
+status: Bot's status, you can replace by LISTEING,WATCHING, STREAMING, PLAYING, COMPETING
 
-channel_id: ID của kênh BOT sẽ gửi tin nhắn khi có người mới vào server
+channel_id: channel ID you want bot send message when someone join your server
 ```
 
-## Tính năng (update version 1.1)
+## Feature (update version 1.2)
 
-* Gửi tin nhắn chào mừng đến người mới vào server
-* Music
-    1.  `play` nhạc từ youtube thông qua tìm kiếm hoặc link youtube
-    2.  `stop` dừng nhạc
-    3.  `leave` dừng nhạc và thoát khỏi kênh
+* Send message when new guys join server.
+* Command music
+    1.  `play` play music from Youtube
+    2.  `stop` stop music
+    3.  `leave` stop music and leave channel
+    4.  `queue` list song play
+    5.  `skip` go to next song on queue
 
 
-## Liên hệ, báo lỗi
+## Support and contact
 Facebook [Nguyen Duc Nhat](https://www.facebook.com/nhaatj.isme35/)     GitHub [@Nhaatj](https://github.com/Nhaatj)
+[Website](ismebot.cf)
+Mail : contactwithme.isme@gmail.com
 
 >Author Nhaatj_isme
