@@ -1,6 +1,10 @@
 # [isme](http://www.ismebot.cf/)
 > simple bot
 
+* Choose Laguage :
+    * [English](https://github.com/Nhaatj/Discord-BOT-public/blob/main/README.md)
+    * [VietNamese](https://github.com/Nhaatj/Discord-BOT-public/blob/main/README-VN.md)
+
 ## Install
 
 Open terminal or cmd and install this :
@@ -21,7 +25,7 @@ npm i discord-player
 
 ## How to Use
 
-Download file from **Releases** with version you want, open file `.config.json`.
+Download file from [**Releases**](https://github.com/Nhaatj/Discord-BOT-public/releases) with version you want, open file `.config.json`.
 Take Discord Token from [here](https://discord.com/developers/applications).
 ```
 token: paste your token
