@@ -10,17 +10,8 @@
 Open terminal or cmd and install this :
 
 ```
-npm i
-npm init
-npm install discord.js
-npm i fs
-npm i ytdl
-npm i ytdl-core   
+npm install discord.js ytdl ytdl-core ffmpeg-static youtube-dl ytdl-core-discord discord-player
 npm audit fix 
-npm i ffmpeg-static 
-npm i youtube-dl
-npm i ytdl-core-discord
-npm i discord-player
 ```
 
 ## How to Use
